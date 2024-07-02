@@ -13,8 +13,6 @@
             <th>Name</th>
             <th>Email</th>
             <th>Age</th>
-            <th>Action Delete</th>
-            <th>Action Edit</th>
         </tr>
         <?php 
        include 'connect.php';
